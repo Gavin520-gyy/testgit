@@ -4,3 +4,4 @@
 hello.js
 ÃÍÊŞ³öÃ»£¬×¢Òâ±ÜÈÃ
 keep foolish
+add a new branch classone
