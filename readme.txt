@@ -3,3 +3,4 @@
 前端继续学习
 hello.js
 猛兽出没，注意避让
+keep foolish
