@@ -5,3 +5,5 @@ hello.js
 ÃÍÊŞ³öÃ»£¬×¢Òâ±ÜÈÃ
 keep foolish
 keep healthy
+add a new branch classone
+
