@@ -4,3 +4,4 @@
 hello.js
 ÃÍÊŞ³öÃ»£¬×¢Òâ±ÜÈÃ
 keep foolish
+keep healthy
